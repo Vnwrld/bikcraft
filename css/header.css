@@ -1,0 +1,15 @@
+header {
+  background-color: var(--cor-primaria);
+  padding: 20px;
+}
+header img {
+  max-width: auto;
+}
+.nav-bar {
+  gap: 40px;
+  align-self: center;
+}
+.nav-bar a {
+  color: white;
+  text-decoration: none;
+}
