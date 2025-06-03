@@ -1,0 +1,9 @@
+.intro-bg {
+  background-color: var(--cor-primaria);
+}
+.intro-bg a {
+  color: #ffffff;
+  display: inline-block;
+  padding: 16px 0px;
+  font-size: 18px;
+}
