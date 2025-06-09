@@ -1,5 +1,8 @@
-@import url(/css/reset.css);
-@import url(/css/global.css);
-@import url(/css/header.css);
-@import url(/css/ultilitario.css);
-@import url(/css/intro.css);
+@import url(../css/global/global.css);
+@import url(../css/global/reset.css);
+@import url(../css/global/header.css);
+@import url(../css/ultilidades/ultilidades.css);
+@import url(../css/home/intro.css);
+@import url(../css/bicicletas/bicicletas-lista.css);
+@import url(../css/ultilidades/tipografias.css);
+@import url(../css/ultilidades/cores.css);
