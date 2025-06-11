@@ -6,8 +6,11 @@
 @import url(../css/bicicletas/bicicletas-lista.css);
 @import url(../css/ultilidades/tipografias.css);
 @import url(../css/ultilidades/cores.css);
-@import url(../css/tecnologias/tecnologias.css);
+@import url(../css/home/tecnologias.css);
 @import url(../css/home/parceiros.css);
 @import url(../css/home/depoimento.css);
 @import url(../css/seguros/seguros.css);
 @import url(../css/global/footer.css);
+@import url(../css/global/titulo.css);
+@import url(../css/termos/Termos.css);
+@import url(../css/bicicletas/bicicletas.css);

@@ -1,0 +1,35 @@
+.bicicleta-item {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  margin-top: 120px;
+}
+.bicicleta-item h2 {
+  margin-top: 8px;
+  margin-bottom: 20px;
+}
+.bicicleta-item p {
+  margin-bottom: 32px;
+}
+.bicicleta-item li {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 8px;
+}
+.bicicleta-conteudo {
+  position: relative;
+}
+.btn-ver-mais {
+  position: absolute;
+}
+
+.btn-ver-mais img {
+  display: inline-block;
+}
+.btn-ver-mais a {
+  padding: 16px;
+}
+.btn-ver-mais {
+  top: 300px;
+  right: 120px;
+}
